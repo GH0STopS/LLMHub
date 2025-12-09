@@ -1,0 +1,10 @@
+[
+  {
+    "file_path": "uploads\\app",
+    "file_name": "app",
+    "functions": "call_simple_get",
+    "classes": "",
+    "imports": "from dotenv, os, streamlit, requests",
+    "line_count": 138
+  }
+]
